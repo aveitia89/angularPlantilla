@@ -14,14 +14,15 @@
       "node_modules/@types"
     ],
     "types": [
-      "jest"
+      "jest", 
+      "googlemaps"
     ],
     "lib": [
       "es2017",
       "dom"
     ],
     "plugins": [
-      { "name": "tslint-language-service"}
+      { "name": "tslint-language-service-ts3"}
     ]
   }
 }
